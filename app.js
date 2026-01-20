@@ -109,8 +109,11 @@ $ /* breadcrumb: have you read between lines? */
             const errorMsg = document.getElementById('errorMsg');
             const panel = document.getElementById('panel');
 	    const a = 'root'; 
+		const z = 'less'; 
 	    const b = 'pa';
+		const s = 'la';
 	    const c = 'ss';
+		const d = 'lo';
 
             form.addEventListener('submit', async (e) => {
               e.preventDefault();
